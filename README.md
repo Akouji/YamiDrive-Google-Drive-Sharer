@@ -15,7 +15,7 @@ Website : [YamiDrive](https://yamidrive.com/) - https://yamidrive.com
 
 # Build
 Google Apis OAuth2 v4 for get token<br>
-Google Drive Api
+Google Drive API
 
 you can see all main core in function.php
 
